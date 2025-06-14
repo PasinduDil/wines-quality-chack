@@ -11,5 +11,5 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
-notebook
+notebook==7.0.0
 -e .
